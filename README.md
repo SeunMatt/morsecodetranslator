@@ -34,9 +34,7 @@ Separate morse code for each letter by a space.
 
 Tutorial
 =========
-The complete tutorial about how to design the simple app can be found in this medium post
-
-[link]
+The complete tutorial about how to design the simple app can be found in [This medium post](https://medium.com/prodsters/how-to-build-a-desktop-application-with-java-a34ee9c18ee3)
 
 I discussed the basic details of creating a GUI Desktop Application with `Java`. 
 
